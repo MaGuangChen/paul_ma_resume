@@ -1,0 +1,3 @@
+Paul Ma Resume
+使用react webpack未來希望加入redux以及graphQL
+應該會使用firebase或是mongose來作為簡單的database
