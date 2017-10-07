@@ -1,7 +1,17 @@
 {
-  "main.css": "static/css/main.3bcfa3dd.css",
-  "main.css.map": "static/css/main.3bcfa3dd.css.map",
-  "main.js": "static/js/main.f1ec28b7.js",
-  "main.js.map": "static/js/main.f1ec28b7.js.map",
-  "static\\media\\blue-code.png": "static/media/blue-code.59bd83c3.png"
+  "main.css": "static/css/main.deccccfd.css",
+  "main.css.map": "static/css/main.deccccfd.css.map",
+  "main.js": "static/js/main.399c9b8f.js",
+  "main.js.map": "static/js/main.399c9b8f.js.map",
+  "static\\media\\blue-code.png": "static/media/blue-code.59bd83c3.png",
+  "static\\media\\firebase.svg": "static/media/firebase.921d84b1.svg",
+  "static\\media\\graphQL.svg": "static/media/graphQL.867677bd.svg",
+  "static\\media\\html5.svg": "static/media/html5.b17a13ec.svg",
+  "static\\media\\maguangchen.jpg": "static/media/maguangchen.a9f99fe1.jpg",
+  "static\\media\\mongoDB.svg": "static/media/mongoDB.70b939fd.svg",
+  "static\\media\\node.svg": "static/media/node.805e4451.svg",
+  "static\\media\\react.svg": "static/media/react.5d5d9eef.svg",
+  "static\\media\\redux.svg": "static/media/redux.4e231cdc.svg",
+  "static\\media\\scss.svg": "static/media/scss.19f02664.svg",
+  "static\\media\\webpack.svg": "static/media/webpack.1501d041.svg"
 }
